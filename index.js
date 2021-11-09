@@ -4,5 +4,7 @@ console.log('hello git');
 
 // function ...
 console.log('hi....');
+console.log('hi just for test');
+console.log('hi jamal');
 
 // function
