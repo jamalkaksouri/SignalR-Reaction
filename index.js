@@ -8,3 +8,8 @@ console.log('hi just for test');
 console.log('hi jamal');
 
 // function
+const Test = () => {
+    return ('New Fuction');
+}
+
+export default Test;
