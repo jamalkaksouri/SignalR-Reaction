@@ -1,2 +1,3 @@
 console.log('Hello there...');
-alert('ji man...')
+alert('hi man...')
+console.log('hello git');
